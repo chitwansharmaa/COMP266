@@ -15,7 +15,7 @@
 
 **SITE DESIGN**
 ![Design](https://github.com/chitwansharmaa/COMP266/blob/7dd48e19a21a08f30b8722e809f0734dbcdb9716/Screen%20Shot%202021-04-25%20at%2010.34.50%20PM.png)
-!(https://github.com/chitwansharmaa/COMP266/blob/942ccb6506d3d622432856457c64e7dbd28245f9/Screen%20Shot%202021-04-25%20at%2010.35.08%20PM.png)
+![Design](https://github.com/chitwansharmaa/COMP266/blob/942ccb6506d3d622432856457c64e7dbd28245f9/Screen%20Shot%202021-04-25%20at%2010.35.08%20PM.png)
 
  **SITEMAP**
 ![MAP](https://ibb.co/XDtTKT1)
