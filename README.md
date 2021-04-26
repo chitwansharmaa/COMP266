@@ -14,9 +14,7 @@
 * I created a mock website design and sitemap which will help me to envision how I want my website to look like. Site design mockup was made using Moqups and site map wa smade using GlooMaps. 
 
 **SITE DESIGN**
-![Design](https://ibb.co/mhC17tc
-https://ibb.co/gM36sSb
-https://ibb.co/t2cdbQ2)
+![Design](https://ibb.co/mhC17tc)
 
  **SITEMAP**
 ![MAP](https://ibb.co/XDtTKT1)
