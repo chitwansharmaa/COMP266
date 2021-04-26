@@ -18,5 +18,5 @@
 ![Design](https://github.com/chitwansharmaa/COMP266/blob/942ccb6506d3d622432856457c64e7dbd28245f9/Screen%20Shot%202021-04-25%20at%2010.35.08%20PM.png)
 
  **SITEMAP**
-![MAP](https://ibb.co/XDtTKT1)
+![MAP](https://github.com/chitwansharmaa/COMP266/blob/d251ea8e9afc430a6cf2f2ceef109db0746cf1ac/Screen%20Shot%202021-04-25%20at%2010.35.32%20PM.png)
 
