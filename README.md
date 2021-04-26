@@ -6,7 +6,7 @@
 
 * This is an ongoing project repo where I will be updating my progress for the coursework which includes creating a well functioing website from scratch. 
 * Creating a food website where restaurants and bloggers alike can post food content. 
-* I am using ```CSS``, ```HTML```, and ```JavaScript``` . 
+* I am using ```CSS, HTML, and Javascript```
 
 ### UNIT 1
 * Unit 1 consisted of creating a design documentation. 
