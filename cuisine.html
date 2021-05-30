@@ -1,0 +1,164 @@
+<html>
+<head>
+  <link rel="stylesheet" href="cuisine.css">
+  <link href="https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <script src="modal.js"></script>
+</head>
+<body>
+
+<!-- Navigation bar-->
+<br>
+  <style>
+    ul {
+      list-style-type: none;
+      position: static;
+      margin-top:  0;
+      padding: 0;
+      overflow: hidden;
+      background-color: lightcyan;
+    }
+    
+    li {
+      float: right;
+    }
+    
+    li a {
+      display: block;
+      color: black;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover {
+      background-color: lightsalmon;
+    }
+    </style>
+    </head>
+    
+    <ul>  
+      <li><a href="contact.html">Contact</a></li>
+      <li><a class="highlighted" href="#cuisines">Cuisines</a></li>
+      <li><a href="rest.html">Restaurants</a></li>
+      <li><a href="main.html">Home</a></li>
+    </ul>
+
+  </br>
+  <br>
+<!-- Styling for the heading and the caption for the webpage -->
+<style>
+  h1 {
+    font-family: 'Syne Mono', monospace;
+  }
+  p {
+    font-family: 'Syne Mono', monospace;
+  }
+
+  h2 {
+  font-family: 'Gloria Hallelujah', cursive;
+  margin: 10px;
+  font-size: 30px;
+  font-weight: bolder;
+}
+</style>
+<h1 class="line-1 anim-typewriter">FOODIES OF TORONTO</h1></br>
+<br>
+
+<p style="text-align:center", >Toronto is a multi-cultural city so check out various cuisines that this city has to offer to you!</p>
+</br>
+<div class="row">
+  <div class="column">
+    <img src="images/japanese.jpeg" alt="JAPANESE" style="width:100%">
+    <a href="https://www.paitoronto.com/">JAPANESE</a>
+    <div class="wrap">
+      <button onclick="document.getElementById('id04').style.display='block'" class="button">RECOMMENDATIONS</button>
+      <div id="id04" class="w3-modal">
+        <div class="w3-modal-content w3-card-4">
+          <header class="w3-container w3-teal"> 
+            <span onclick="document.getElementById('id04').style.display='none'" 
+            class="w3-button w3-display-topright">&times;</span>
+            <title>Modal Header</title>
+          </header>
+          <div class="w3-container">
+            <h2 style="text-align:center">POPULAR JAPANESE</h2>
+            <dl>
+              <dt>MIKU</dt>
+              <dt>KINTON RAMEN</dt>
+              <dt>KINGYO TORONTO</dt>
+              <dt>AKIRA BACK</dt>
+              <dt>SAKU SUSHI</dt>
+              <br>
+            </br>
+            </dl>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <img src="images/indian.jpeg" alt="INDIAN" style="width:100%">
+    <a href="http://www.khaosanroad.ca/">INDIAN</a>
+    <div class="wrap">
+      <button onclick="document.getElementById('id05').style.display='block'" class="button">RECOMMENDATIONS</button>
+      <div id="id05" class="w3-modal">
+        <div class="w3-modal-content w3-card-4">
+          <header class="w3-container w3-teal"> 
+            <span onclick="document.getElementById('id05').style.display='none'" 
+            class="w3-button w3-display-topright">&times;</span>
+            <title>Modal Header</title>
+          </header>
+          <div class="w3-container">
+            <h2 style="text-align:center">POPULAR INDIAN</h2>
+            <dl>
+              <dt>LEELA INDIAN FOOD BAR</dt>
+              <dt>BANJARA BLOOR</dt>
+              <dt>PUKKA</dt>
+              <dt>MAEZO</dt>
+              <dt>AANCH</dt>
+              <br>
+              <a href="https://www.doordash.com/business/101121/?utm_source=partner-link&utm_medium=website&utm_campaign=101121&utm_content=red-l" target="_blank" alt="Order Food Delivery with DoorDash" title="Order Food Delivery with DoorDash" style="text-decoration: none"><div style="position: relative; width:289px; height:59px; margin: 0px auto; background-image: url(https://cdn.doordash.com/media/button/button_red_l.svg); color:transparent">Order Food Delivery with DoorDash</div></a>
+            </br>
+            </dl>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <img src="images/pai.jpeg" alt="THAI" style="width:100%">
+    <a href="https://richmondstation.ca/">THAI</a>
+    <div class="wrap">
+      <button onclick="document.getElementById('id06').style.display='block'" class="button">RECOMMENDATIONS</button>
+      <div id="id06" class="w3-modal">
+        <div class="w3-modal-content w3-card-4">
+          <header class="w3-container w3-teal"> 
+            <span onclick="document.getElementById('id06').style.display='none'" 
+            class="w3-button w3-display-topright">&times;</span>
+            <title>Modal Header</title>
+          </header>
+          <div class="w3-container">
+            <h2 style="text-align:center">POPULAR THAI</h2>
+            <dl>
+              <dt>PAI</dt>
+              <dt>KOH LIPE THAI</dt>
+              <dt>KHAO SAN ROAD</dt>
+              <dt>BANGRAK</dt>
+              <dt>LAO THAI</dt>
+              <br>
+              <a href="https://www.doordash.com/business/536145/?utm_source=partner-link&utm_medium=website&utm_campaign=536145&utm_content=red-l" target="_blank" alt="Order Food Delivery with DoorDash" title="Order Food Delivery with DoorDash" style="text-decoration: none"><div style="position: relative; width:289px; height:59px; margin: 0px auto; background-image: url(https://cdn.doordash.com/media/button/button_red_l.svg); color:transparent">Order Food Delivery with DoorDash</div></a>
+            </br>
+            </dl>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</body>
+
+<footer style = "text-align: center; margin: 100px">&copy; Chitwan Sharma : May 26, 2021 </footer>
+</html>
